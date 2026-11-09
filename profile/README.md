@@ -6,8 +6,6 @@
 
 # COS30008 — Data Structures and Patterns
 
-**Swinburne University of Technology | Semester 1, 2026**
-
 ## About the Unit
 
 COS30008 explores the design, implementation, and application of data structures for algorithmic problem-solving. It focuses on choosing suitable data representations, evaluating time and space requirements, and recognising reusable software design patterns.
@@ -24,5 +22,3 @@ COS30008 explores the design, implementation, and application of data structures
 This GitHub organization brings together repositories related to **COS30008 — Data Structures and Patterns**, providing a central place to organize work associated with the unit.
 
 ---
-
-*Course information is based on the COS30008 Unit Outline, Semester 1, 2026 (Swinburne University of Technology, Sarawak).* 
